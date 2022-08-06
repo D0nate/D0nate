@@ -2,12 +2,7 @@
   <h2 align="center">Welcome to my Github!</h2>
 </div>
 
-## Kamal WARDI
-
-👋 Hi there, I'm a fresh frontend developper and a lifelong learner.
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mozaik.re@gmail.com)](mailto:mozaik.re@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Kamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamal-wardi/)](https://www.linkedin.com/in/kamal-wardi/)
+### 👋 Hi there, I'm a fresh frontend developper and a lifelong learner.
 
 #### Here are some info about me :
 
@@ -18,7 +13,6 @@
   - I love playing soccer (on the pitch, not on TV-screen), and beach-volley.
   - I live in **Reunion Island** (what's the point did you say?).
   - I have **ADHD** and.
-- 😄 "Say my name" like that : [ka] [ma] [l].
 
 #### I have approached these technologies through some projects :
 
@@ -35,9 +29,4 @@
 [![Jest Badge](https://img.shields.io/badge/-Jest-8f4058?style=flat-square&labelColor=fff&logo=Jest&logoColor=8f4058)](#)
 
 
-:email: Feel free to reach me at : mozaik.re@gmail.com
-
-<!--
-Modèle pour les badge de techno
-![[Nom de Badge](https://img.shields.io/badge/-NOMAFFICHE-COLOR?style=flat-square&labelColor=black&logo=REF_DU_LOGO&logoColor=COLOR)](#)
--->
+:email: Feel free to reach me at : lokus.contact@gmail.com
