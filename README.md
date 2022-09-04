@@ -6,8 +6,8 @@
 
 #### Here are some info about me :
 
-- 🔭 I’m currently working on my English skill and my portfolio. :muscle:
-- 🌱 I’m currently learning Typescript/Nextjs/Supabase/Programmation Fundations.
+- 🔭 I’m currently working on my portfolio. :muscle:
+- 🌱 I’m currently learning Typescript/Nextjs/Supabase/Programmaing Fundamentals.
 - :mag: I’m looking to work on exciting projects (i mean a job).
 - ⚡ Fun facts:
   - I love playing soccer (on the pitch, not on TV-screen), and beach-volley.
