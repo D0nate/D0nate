@@ -20,7 +20,7 @@
 [![CSS Badge](https://img.shields.io/badge/-Css-2862e9?style=flat-square&labelColor=fff&logo=css3&logoColor=2862e9)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=flat-square&labelColor=fff&logo=Sass&logoColor=CD6799)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=fff&logo=react&logoColor=61DBFB)](#)
-[![Redux Toolki Badge](https://img.shields.io/badge/-ReduxTK-764ABC?style=flat-square&labelColor=fff&logo=Redux&logoColor=764ABC)](#)
+[![Redux Toolkit Badge](https://img.shields.io/badge/-ReduxTK-764ABC?style=flat-square&labelColor=fff&logo=Redux&logoColor=764ABC)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-ffcb2c?style=flat-square&labelColor=fff&logo=Firebase&logoColor=ffcb2c)](#)
 [![Supabase Badge](https://img.shields.io/badge/-Supabase-3fcf8e?style=flat-square&labelColor=fff&logo=Supabase&logoColor=3fcf8e)](#)
 [![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&labelColor=fff&logo=MUI&logoColor=007FFF)](#)
