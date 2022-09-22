@@ -12,7 +12,7 @@
 - ⚡ Fun facts:
   - I love playing soccer (on the pitch, not on TV-screen), and beach-volley.
   - I live in **Reunion Island** (what's the point did you say?).
-  - I have **ADHD** and.
+  - I have **ADHD**.
 
 #### I have approached these technologies through some projects :
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&labelColor=fff&logo=javascript&logoColor=F0DB4F)](#)
