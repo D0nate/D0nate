@@ -1,5 +1,5 @@
 </div>
-  <h2 align="center">Welcome to my Github!</h2>
+  <h2 align="center">Welcome !</h2>
 </div>
 
 ### 👋 Hi there, I'm a fresh frontend developper and a lifelong learner.
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Typescript/Nextjs/Supabase/Programmaing Fundamentals.
 - :mag: I’m looking to work on exciting projects (i mean a job).
 - ⚡ Fun facts:
-  - I love playing soccer (on the pitch, not on TV-screen), and beach-volley.
+  - I love playing soccer (on the pitch, not on Tv-screen), and beach-volley.
   - I live in **Reunion Island** (what's the point did you say?).
   - I have **ADHD**.
 
